@@ -22,14 +22,14 @@ Download your selected .apkg file from this repo.
 
 **Daily Limits**
 
-New cards/day 👉🏼 30
-Maximum reviews/day 👉🏼 9999 
+- New cards/day 👉🏼 30
+- Maximum reviews/day 👉🏼 9999 
 
 **New Cards**
 
-Learning steps 👉🏼 '1m 10m 1d 3d'
-Graduating Interval 👉🏼 7
-Easy interval 👉🏼 14
+- Learning steps 👉🏼 '1m 10m 1d 3d'
+- Graduating Interval 👉🏼 7
+- Easy interval 👉🏼 14
 
 **Lapses**
 
