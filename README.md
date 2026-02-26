@@ -23,7 +23,7 @@ Download your selected .apkg file from this repo.
 **Daily Limits**
 
 New cards/day 👉🏼 30
-Maximum reviews/day 👉🏼 9999
+Maximum reviews/day 👉🏼 9999 
 
 **New Cards**
 
